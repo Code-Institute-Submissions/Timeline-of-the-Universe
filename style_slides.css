@@ -1,26 +1,62 @@
-    
-        .navbar-header{
-            text-align:right;
-            font-size:4rem;
-            color:white;
-            font-weight:bold;
-        }
-        
-        body{
-            background-image: url("images/space.jpg")
-        }
-        h1{
-            font-size:5rem;
-            color:red;
-            
-        }
-        
-        .con1 {
-            width:90%;
-            
-        }
 
-        .con2{
-            background-color:#FF0000;
-            color:white;
-        }
+.navbar-header{
+    text-align:right;
+    font-size:4rem;
+    color:white;
+    font-weight:bold;
+}
+
+body{
+    background-image: url("images/space.jpg")
+}
+
+.modal-content {
+        width:75rem;
+}
+
+.modal-title, uni {
+        text-align: center;
+}
+
+
+
+h1{
+    font-size:5rem;
+    /*color:red;*/
+    
+}
+
+
+.con1 {
+    width:90%;
+    
+}
+
+.con2{
+    background-color:#222;
+    color:white;
+}
+
+.contact-card {
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    border: 5px solid #c1272d;
+    border-radius: 60px;
+    color:white;
+}
+
+.input-box {
+    border: 2px solid #c1272d;
+}
+
+.
+
+.navbar-inverse .navbar-brand {
+    color:white;
+}
+
+
+
+.white-text {
+    color:white;
+}
