@@ -11,8 +11,8 @@ body{
 }
 
 .modal-content {
-        width:75rem;
-        border: 5px solid #c1272d;
+        /*width:75rem;*/
+        border: 3px solid #c1272d;
 }
 
 .modal-title, uni {
